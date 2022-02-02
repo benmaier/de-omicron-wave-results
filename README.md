@@ -1,6 +1,6 @@
 # de-omicron-wave-results
 
-This repository contains results of a modelling study regarding the spread of the SARS-CoV-2 VOC "Omicron" in Germany.
+This repository contains results of a modelling study regarding the spread of SARS-CoV-2 VOC "Omicron" in Germany.
 
 ## Columns and values
 
