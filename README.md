@@ -30,7 +30,7 @@ Additional columns regarding combinations of plausible scenarios (rounded to nea
 | `50_PI_upper` | int | 50% PI upper bound (rounded to nearest integer) | Obere Schranke des 50% PIs (gerundet auf ganze Zahl) |
 | `95_PI_upper` | int | 95% PI upper bound (rounded to nearest integer) | Obere Schranke des 95% PIs (gerundet auf ganze Zahl) |
 
-### `booster_reach`
+### Values: `booster_reach`
 
 | value | description EN | description DE |
 | -- | -- | -- |
@@ -38,14 +38,14 @@ Additional columns regarding combinations of plausible scenarios (rounded to nea
 | `hi` | high booster campaign reach (100% of those that received full vaccination in 2021 receive booster vaccination) | Hoch, 100% derjenigen, die in 2021 vollstaendig geimpft wurden, erhalten eine Auffrischimpfung |
 
 
-### `booster_VE`
+### Values: `booster_VE`
 
 | value | description EN | description DE |
 | -- | -- | -- |
 | `lo` | low booster vaccine efficacy (assumption: booster protects as well against infection as 2nd dose) | Niedrige Impfeffektivitaet (Auffr. schuetzt genauso gut vor Infektion wie 2 Dosen) |
 | `hi` | high booster vaccine efficacy (assumption: booster protects as well against infection as against symptomatic disease) | Hohe Impfeffektivitaet (Auffr. schuetzt genauso gut vor Infektion wie vor symptomatischer Erkrankung) |
 
-### `value_type`
+### Values: `value_type`
 
 | value | description EN | description DE |
 | -- | -- | -- |
