@@ -36,6 +36,7 @@ Additional columns regarding combinations of plausible scenarios (rounded to nea
 | -- | -- | -- |
 | `md` | medium booster campaign reach (80% of those that received full vaccination in 2021 receive booster vaccination) | Medium, 80% derjenigen, die in 2021 vollstaendig geimpft wurden, erhalten eine Auffrischimpfung |
 | `hi` | high booster campaign reach (100% of those that received full vaccination in 2021 receive booster vaccination) | Hoch, 100% derjenigen, die in 2021 vollstaendig geimpft wurden, erhalten eine Auffrischimpfung |
+| `hi-and-90perc-2dose` | 100% receive booster vaccination and vaccine uptake of first immunization suddenly increases to 90% in Jan 2022 | 100% erhalten Auffrischimpfung und Impfquote der Erstimmunisierung erreicht schnell 90% im Januar 2022 | 
 
 
 ### Values: `booster_VE`
